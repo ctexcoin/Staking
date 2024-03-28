@@ -1,0 +1,17 @@
+{
+  "consensusAddress": "0x951d8D0849aE9bC906E7AB67b9d4BD2bf10B0132",
+  "blockRewardAddress": "0xcc6945e9c6ba7A6c40901Fe122cEbF13C5938da8",
+  "web3": {
+    "fuseProvider": "https://mainnet-rpc.ctexscan.com"
+  },
+  "api": {
+    "boot": "https://bot.ctexscan.com/api/v1"
+  },
+  "reactGA": {
+    "trackingId": "G-LHHHX57LEJ",
+    "gaOptions": {
+      "testMode": true,
+      "debug": true
+    }
+  }
+}
